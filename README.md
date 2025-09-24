@@ -69,6 +69,7 @@ Mobile App (Kotlin/React Native): Farmer interacts via chatbot/voice → queries
 Voice Services (Python + Google Speech API): Convert farmer voice queries into text → process → return advisory as audio.
 
 Flowchart :
+<pre>
                                       +---------------+
                                       |  Farmer      |
                                       |  (Mobile App)  |
@@ -162,7 +163,7 @@ Data Pipeline:
                                       |  (SQL)          |
                                       +---------------+
      
-                        
+      <\pre>                  
 
 
 
